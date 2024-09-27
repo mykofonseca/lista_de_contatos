@@ -1,9 +1,5 @@
-html,
 body {
-    height: 100%;
-}
-
-body {
+    padding-top: 30px;
     background-color: aqua;
     margin: 0;
     padding: 32;
